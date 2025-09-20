@@ -8,7 +8,7 @@ brain-twisting fun rather than practical applications.
 I used it here purely for the challenge and enjoyment – as a creative exercise
 to output the sentence that had been a brainfuck for me for years.
 
-## Optimisation
+## Optimisation (ethanwang314159)
 Purely for the challenge, I've been trying to optimise bf programs to use as few commands as possible.  
 955 -> 383  
 [Tracking google sheets](https://docs.google.com/spreadsheets/d/1s3TCjMd1w4ilogoOm2GPqcNs1qAnNV2JhbNGIictsCw/edit?gid=0#gid=0)
