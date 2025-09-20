@@ -16,6 +16,7 @@ Purely for the challenge, I've been trying to optimise bf programs to use as few
 
 ## Usage
 
+[macos](https://formulae.brew.sh/formula/brainfuck)
 ```bash
 $ brew install brainfuck
 $ brainfuck wtf.bf
